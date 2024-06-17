@@ -18,6 +18,6 @@ Para utilizar este sistema de gestión de inventario, asegúrate de tener instal
 - Node.js
 - npm
 - TypeScript
-- JavaScript (para la lógica de la aplicación)
+
 
 
