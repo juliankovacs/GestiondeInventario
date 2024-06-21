@@ -1,10 +1,3 @@
-interface producto {
-    nombre: string;
-    categoria: string;
-    precio: number;
-    cantidad: number;
-  }
-
 export class Producto{
     nombre: string;
     categoria: string;
